@@ -1,0 +1,21 @@
+.
+|-- Dockerfile
+|-- README.md
+|-- docker-compose.yml
+|-- index.html
+|-- node_modules
+|-- package-lock.json
+|-- package.json
+|-- public
+|   `-- vite.svg
+|-- src
+|   |-- App.css
+|   |-- App.jsx
+|   |-- assets
+|   |   `-- react.svg
+|   |-- index.css
+|   `-- main.jsx
+|-- test.txt
+`-- vite.config.js
+
+297 directories, 2039 files
